@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "988567565692",
+    "project_id": "jeevan-5a53c",
+    "storage_bucket": "jeevan-5a53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988567565692:android:95a65c900f38050a3e20f9",
+        "android_client_info": {
+          "package_name": "com.nikhilprashant.jeevan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988567565692-jhsl9oov8kmh8a3rpf8ls5icqrplsdb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikhilprashant.jeevan",
+            "certificate_hash": "97c531395346dab56168fd7bb992d41d3c1d4f0d"
+          }
+        },
+        {
+          "client_id": "988567565692-vkj6916jalrqpcubbedfrvuspnfitmeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrn5tlUec9vdJamwbcCc6M6ODGLsjTtwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988567565692-vkj6916jalrqpcubbedfrvuspnfitmeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
